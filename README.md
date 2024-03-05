@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hi! I´m 
-    <a href="https://linktr.ee/luislemos">Luís Lemos 😎</a>
+    <a href="luisandrelemos.github.io">Luís Lemos 😎</a>
   </h1>
   
   <p align="center">
