@@ -5,7 +5,7 @@
    </a>
   </h1>
   
-  <h3 align="center"> Currently a Software Engineer Student</h3>  <br/>
+  <h3 align="center"> Currently a Software Engineer Student</h3> <br/>
 
 <div align="center">
   
@@ -18,7 +18,7 @@
 
 <hr/>
 
-<h2 align="center"> Skills </h2>
+<h3 align="center"> 🧰 Languages Skills 🧰</h3> </br>
 
 <div align="center">
   <a href="https://luisandrelemos.github.io">
