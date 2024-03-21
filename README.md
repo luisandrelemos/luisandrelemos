@@ -4,10 +4,7 @@
    <a href="https://luisandrelemos.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=2000&pause=1000&color=FFFFFFDE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&height=60&lines=Hey+There+%F0%9F%91%8B%F0%9F%8F%BD;I%C2%B4m+Lu%C3%ADs+Lemos++%F0%9F%98%8E" alt="Typing SVG" /></a>
   </h1>
   
-  <p align="center">
-    Currently Studying Programming at UTAD To Be a Software Engineer
-    </a>  
-  </p>
+  <h3 align="center"> Currently a Software Engineer Student</h3>
 
 <div align="center">
   <a href="https://github.com/luisandrelemos">
