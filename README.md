@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Hi! I´m <a href="https://luisandrelemos.github.io">Luís Lemos 😎</a>
+   <a href="https://luisandrelemos.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FFFFFFDE&background=FFFFFF00&center=true&random=false&width=435&lines=Hey+There+%F0%9F%91%8B%F0%9F%8F%BD;I%C2%B4m+Lu%C3%ADs+Lemos++%F0%9F%98%8E" alt="Typing SVG" /></a>
   </h1>
   
   <p align="center">
