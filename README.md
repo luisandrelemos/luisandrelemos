@@ -13,7 +13,7 @@
 
   🎓 I´m Currently Acquiring Knowledge at **UTAD University.** 
 
-  🏍 Fun Fact: I´m Proudly a **GearHead** 🏎
+  🏍 Proudly **GearHead** 🏎
 </div>
 
 <hr/>
