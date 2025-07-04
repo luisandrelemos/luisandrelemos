@@ -5,24 +5,24 @@
    </a>
   </h3><hr/>
   
-  <h3 align="center"> Currently a Software Engineer Student</h3> <br/>
+  <h3 align="center"> Currently a Junior Software Engineer </h3> <br/>
 
 <div align="center">
   
-  🖌 Passionate about Bridging the Gap between **Coding & Design.**
+  🖌 Passionate about Bridging the Gap between **Coding & Design** 🖌
 
-  🎓 I´m Currently Acquiring Knowledge at **UTAD University.** 
+  🎓 Software Engineer 🎓
 
-  🏍 Proudly **GearHead** 🏎
+  🏍 **GearHead** 🏎
 </div>
 
 <hr/>
 
-<h3 align="center"> 🧰 Languages Skills 🧰</h3> </br>
+<h3 align="center"> 🧰 Skills 🧰</h3> </br>
 
 <div align="center">
   <a href="https://luislemos.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,c,cpp,cs,python,ae,ps"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,github,git,c,cpp,cs,dotnet,threejs,nodejs,nextjs,python,pytorch,tensorflow,docker,rabbitmq,postman,firebase,gcp,vercel,ae,ps,figma,vscode,visualstudio"/>
 </div>
  </br>
 
